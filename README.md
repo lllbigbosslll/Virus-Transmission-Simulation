@@ -1,1 +1,1 @@
-# INFO6205-Virus-Transmission-Simulation
+# Virus-Transmission-Simulation
